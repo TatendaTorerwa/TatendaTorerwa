@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tatendatorerwa" target="blank"><img src="https://img.shields.io/twitter/follow/tatendatorerwa?logo=twitter&style=for-the-badge" alt="tatendatorerwa" /></a> </p>
 
-- 🌱 I’m currently learning **Python Django with PostgreSQL,C Language,HTML, CSS, JAVASCRIPT,**
+- 🌱 I’m currently learning **Python Django with PostgreSQL,C Language,HTML, CSS, JAVASCRIPT, MySQL**
 
-- 💬 Ask me about **Node.js, React,Flask,Nginx,**
+- 💬 Ask me about **Node.js, React, Next.js,Flask,Nginx,**
 
 - 📫 How to reach me **ttorerwa01@gmail.com**
 
