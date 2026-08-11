@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tatenda Torerwa</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h1 align="center">Hi 👋, I am Tatenda Torerwa</h1>
+<h3 align="center">Software developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/tatendatorerwa" target="blank"><img src="https://img.shields.io/twitter/follow/tatendatorerwa?logo=twitter&style=for-the-badge" alt="tatendatorerwa" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ttorerwa01@gmail.com**
 
-- ⚡ Fun fact **l can sing**
+- ⚡ Fun fact **l am a Harajuku Barbie 🦄🎀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
