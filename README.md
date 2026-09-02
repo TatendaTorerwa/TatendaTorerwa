@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tatendatorerwa" target="blank"><img src="https://img.shields.io/twitter/follow/tatendatorerwa?logo=twitter&style=for-the-badge" alt="tatendatorerwa" /></a> </p>
 
-- 🌱 I’m currently learning **Python Django with PostgreSQL,C Language,HTML, CSS, JAVASCRIPT, MySQL**
+- 🌱 Currently learning: Python & Django, PostgreSQL, C, HTML, CSS, JavaScript, MySQL, and Cybersecurity 🔐.
 
 - 💬 Ask me about **Node.js, React, Next.js,Flask,Nginx,**
 
