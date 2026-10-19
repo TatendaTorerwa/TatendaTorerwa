@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/tatendatorerwa" target="blank"><img src="https://img.shields.io/twitter/follow/tatendatorerwa?logo=twitter&style=for-the-badge" alt="tatendatorerwa" /></a> </p>
 
-* 🌱 **Currently learning:** Python, Django, Cybersecurity, Java, C, HTML, CSS, JavaScript, and MySQL.
+🌱 **Currently learning:** Cybersecurity, Governance, Risk & Compliance (GRC), Penetration Testing, Vulnerability Assessment, and Cybersecurity Tools.
 
-* 💻 **Ask me about:** Python, Flask, Django, Node.js, Express.js, REST APIs, MySQL, Nginx, and backend development.
+💻 **Exploring:** Python for Security Automation, Web Application Security, and Vulnerability Management.
 
-* 📫 **Reach me at:** **[ttorerwa01@gmail.com](mailto:ttorerwa01@gmail.com)** | **[tatendatorerwa@yahoo.com](mailto:tatendatorerwa@yahoo.com)**
+💻 **Ask me about:** Python, Flask, Django, Node.js, Express.js, REST APIs, MySQL, Nginx, and backend development.
 
-* ⚡ **Fun fact:** I'm a Harajuku Barbie who loves tech, music, and building cool things. 🦄🎀
+📫 **Reach me at:** **[ttorerwa01@gmail.com](mailto:ttorerwa01@gmail.com)** | **[tatendatorerwa@yahoo.com](mailto:tatendatorerwa@yahoo.com)**
+
+⚡ **Fun fact:** I'm a Harajuku Barbie who loves tech, music, and building cool things. 🦄🎀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
